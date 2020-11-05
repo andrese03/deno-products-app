@@ -11,4 +11,5 @@ This is a simple REST API build with [Deno](https://deno.land/).
 ```sh
 $ # Happy Coding!
 $ deno run --allow-net server.ts
+$ # Now browse http://localhost:5000/API/products
 ```
